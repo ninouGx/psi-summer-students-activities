@@ -1,1 +1,7 @@
 /target
+
+# Local deploy config
+/deploy/
+
+# Generated calendar output
+/*.ics
